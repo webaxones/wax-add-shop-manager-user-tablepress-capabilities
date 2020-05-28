@@ -1,0 +1,13 @@
+{
+    "name": "Webaxones/wax-add-shop-manager-user-tablepress-capabilities",
+    "description": "Add TablePress plugin capabilities to WooCommerce Shop manager user",
+    "license": "GPL-2.0",
+    "authors": [{
+        "name": "Webaxones",
+        "email": "contact@webaxones.com"
+    }],
+    "type": "wordpress-muplugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
